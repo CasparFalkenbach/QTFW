@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../TODO2/main.qml</file>
+        <file alias="qtquickcontrols2.conf">../TODO2/qtquickcontrols2.conf</file>
+        <file alias="ToDoList.qml">../TODO2/ToDoList.qml</file>
+    </qresource>
+</RCC>
